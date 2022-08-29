@@ -1,0 +1,22 @@
+# Compiled class file
+*.class
+/bin/
+/target/
+
+# Eclipse files
+.classpath
+.project
+
+# ios meta
+.DS_Store
+
+# Log file
+*.log
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# application output files
+*.properties
+*.wav
+
